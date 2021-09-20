@@ -8,9 +8,9 @@
 
 ## Screenshot:
 
-![1](Screenshots/Screenshot1.png)
-![2](Screenshots/Screenshot2.png)
-![3](Screenshots/Screenshot3.png)
+![1](../Screenshots/Screenshot1.png)
+![2](../Screenshots/Screenshot2.png)
+![3](../Screenshots/Screenshot3.png)
 
 ## Ship, Asteroids & Shoot:
 - Yoel Motillo La Pira
