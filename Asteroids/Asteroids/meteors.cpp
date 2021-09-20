@@ -25,13 +25,13 @@ namespace app
 		static int	smallMeteorsCount;
 		static int destroyedMeteorsCount;
 		static float meteorSpeed;
-		static const float speedBoost = 100.0f; //variable para que la velocidad se ajuste al GetFrameTime
+		static const float speedBoost = 100.0f;
 		static int initialCorrection = 150;//para que los meteoros no tomen la posicion de la nave en el inicio
+
 		//Imagenes y texturas
 		static Image meteorImage;
 		static Texture2D meteorTexture;
 
-		//Numeros magicos para escalar las textura
 		static float bigMeteorScale;
 		static Vector2 bigMeteorScalePos;
 		static float mediumMeteorScale;

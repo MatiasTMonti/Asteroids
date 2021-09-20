@@ -20,6 +20,8 @@ namespace app
 		void DrawPowerUps();
 		void UnloadPowerUps();
 
+		extern float timer;
+
 		extern bool resizeShootActive;
 		extern bool nuclearActive;
 	}

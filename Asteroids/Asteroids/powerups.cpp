@@ -36,6 +36,10 @@ namespace app
 
 		bool resizeShootActive = false;
 		bool nuclearActive = false;
+		bool alreadySpawnNuclear = false;
+		bool alreadySpawnShoot = false;
+
+		float timer = 0;
 
 		static int scaleAux = 1600;
 
@@ -52,6 +56,9 @@ namespace app
 			bool correctRange = false;
 			resizeShootActive = false;
 			nuclearActive = false;
+			alreadySpawnNuclear = false;
+			alreadySpawnShoot = false;
+			timer = 0.0f;
 
 			powerupSpeed = 1;
 
@@ -93,7 +100,7 @@ namespace app
 
 				resizeShoot[i].speed = { velx, vely };
 				resizeShoot[i].radius = (10 * GetScreenWidth()) / scaleAux;
-				resizeShoot[i].active = true;
+				resizeShoot[i].active = false;
 				resizeShoot[i].color = BLUE;
 			}
 
@@ -135,7 +142,7 @@ namespace app
 
 				nuclear[i].speed = { velx, vely };
 				nuclear[i].radius = (10 * GetScreenWidth()) / scaleAux;
-				nuclear[i].active = true;
+				nuclear[i].active = false;
 				nuclear[i].color = BLUE;
 			}
 
@@ -148,10 +155,21 @@ namespace app
 
 		void UpdatePowerUps()
 		{
+			timer += GetFrameTime();
+
 			if (!gameOver)
 			{
 				for (int a = 0; a < amount; a++)
 				{
+					if (!alreadySpawnShoot)
+					{
+						if (timer >= 5)
+						{
+							resizeShoot[a].active = true;
+							alreadySpawnShoot = true;
+						}
+					}
+
 					if (CheckCollisionCircles({ ship.collider.x, ship.collider.y }, ship.collider.z, resizeShoot[a].position, resizeShoot[a].radius) && resizeShoot[a].active)
 					{
 						resizeShoot[a].active = false;
@@ -161,6 +179,14 @@ namespace app
 
 				for (int a = 0; a < amount; a++)
 				{
+					if (!alreadySpawnNuclear)
+					{
+						if (timer >= 20)
+						{
+							nuclear[a].active = true;
+							alreadySpawnNuclear = true;
+						}
+					}
 					if (CheckCollisionCircles({ ship.collider.x, ship.collider.y }, ship.collider.z, nuclear[a].position, nuclear[a].radius) && nuclear[a].active)
 					{
 						nuclear[a].active = false;

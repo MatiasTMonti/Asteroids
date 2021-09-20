@@ -1,23 +1,22 @@
-﻿  meteors.cpp
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(67,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(71,131): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(77,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(81,134): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(88,41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(88,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(88,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(89,41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(89,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(89,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(95,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(95,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(95,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(96,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(96,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(96,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(102,51): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(111,54): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\meteors.cpp(120,53): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+﻿  powerups.cpp
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(67,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(71,131): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(77,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(81,134): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(88,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(89,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(95,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(96,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(102,53): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(109,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(113,131): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(119,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(123,134): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(130,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(131,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(137,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(138,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\ImageCampus\1°Año 2°Cuat\Practica Profesional I_Desarrollo de Videojuegos I\Asteroids\Asteroids\Asteroids\powerups.cpp(144,49): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
   raylib.lib(core.obj) : se encontró .netmodule MSIL o un módulo compilado con /GL; reiniciando la vinculación con /LTCG; agregue /LTCG a la línea de comandos de vínculo para mejorar el rendimiento del vinculador
 LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
 LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
