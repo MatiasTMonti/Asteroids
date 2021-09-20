@@ -1,0 +1,48 @@
+﻿  credits.cpp
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(63,42): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(67,38): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(69,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(71,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(73,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(75,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(77,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(79,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(81,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(83,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(85,40): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(89,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(90,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\credits.cpp(92,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  powerups.cpp
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(60,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(64,131): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(70,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(74,134): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(81,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(82,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(88,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(89,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(95,53): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(102,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(106,131): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(112,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(116,134): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(123,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(124,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(130,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(131,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matia\Desktop\Asteroids\Asteroids\powerups.cpp(137,49): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  raylib.lib(core.obj) : se encontró .netmodule MSIL o un módulo compilado con /GL; reiniciando la vinculación con /LTCG; agregue /LTCG a la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Generación de código finalizada
+raylib.lib(core.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(core.obj)' o en 'C:\Users\matia\Desktop\Asteroids\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(raudio.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(raudio.obj)' o en 'C:\Users\matia\Desktop\Asteroids\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(shapes.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(shapes.obj)' o en 'C:\Users\matia\Desktop\Asteroids\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(text.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(text.obj)' o en 'C:\Users\matia\Desktop\Asteroids\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(textures.obj) : warning LNK4099: no se encontró PDB '' con 'raylib.lib(textures.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(rglfw.obj) : warning LNK4099: no se encontró PDB '' con 'raylib.lib(rglfw.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(utils.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(utils.obj)' o en 'C:\Users\matia\Desktop\Asteroids\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Asteroids.vcxproj -> C:\Users\matia\Desktop\Asteroids\Debug\Asteroids.exe
