@@ -8,12 +8,12 @@
 
 ## Screenshot:
 
-![1](screenshots/ss1.png)
-![2](screenshots/ss2.png)
-![3](screenshots/ss3.png)
+![1](Screenshots/Screenshot1.png)
+![2](Screenshots/Screenshot2.png)
+![3](Screenshots/Screenshot3.png)
 
 ## Ship, Asteroids & Shoot:
-- Yoel
+- Yoel Motillo La Pira
 
 ## Musica: 
 - 'Instant Crush', Author: Corbyn Kites, 'https://www.youtube.com/watch?v=hMIKFsFzeU0&ab_channel=CorbynKites'.
