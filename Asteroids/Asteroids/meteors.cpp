@@ -99,7 +99,7 @@ namespace app
 				}
 
 				bigMeteor[i].speed = { velx, vely };
-				bigMeteor[i].radius = (50 * GetScreenWidth()) / scaleAux;
+				bigMeteor[i].radius = (30 * GetScreenWidth()) / scaleAux;
 				bigMeteor[i].active = true;
 				bigMeteor[i].color = BLUE;
 			}
@@ -108,7 +108,7 @@ namespace app
 			{
 				mediumMeteor[i].position = { -100, -100 };
 				mediumMeteor[i].speed = { 0, 0 };
-				mediumMeteor[i].radius = (30 * GetScreenWidth()) / scaleAux;
+				mediumMeteor[i].radius = (20 * GetScreenWidth()) / scaleAux;
 				mediumMeteor[i].active = false;
 				mediumMeteor[i].color = BLUE;
 			}
@@ -117,7 +117,7 @@ namespace app
 			{
 				smallMeteor[i].position = { -100, -100 };
 				smallMeteor[i].speed = { 0, 0 };
-				smallMeteor[i].radius = (15 * GetScreenWidth()) / scaleAux;
+				smallMeteor[i].radius = (10 * GetScreenWidth()) / scaleAux;
 				smallMeteor[i].active = false;
 				smallMeteor[i].color = BLUE;
 			}
